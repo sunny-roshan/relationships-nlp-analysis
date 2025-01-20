@@ -4,4 +4,4 @@
 _For instance: how often does the word 'situationship' appear in the Guardian newspaper's Relationships section?_
 
 
-<img src="https://user-images.githubusercontent.com/link-to-your-image.png" width="200" />
+<img src="https://github.com/sunny-roshan/relationships-nlp-analysis/blob/main/output/word_frequency_situationships.png" width="700" />
