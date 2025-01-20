@@ -1,0 +1,1 @@
+Some lighthearted analysis looking for trends in relationship, advice, articles, and media. How often does the word situation ship appear in the guardian relationship section, and how is it involved over time?
