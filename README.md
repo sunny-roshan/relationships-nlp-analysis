@@ -1,4 +1,4 @@
-****Lighthearted analysis of trends in relationship advice articles and media.****
+****Lighthearted analysis of trends in relationship advice articles and the media.****
 
 
 _For instance: how often does the word 'situationship' appear in the Guardian newspaper's Relationships section?_  
